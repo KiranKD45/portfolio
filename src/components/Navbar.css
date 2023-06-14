@@ -1,0 +1,13 @@
+
+.Navbar-links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    background-color: aquamarine;
+}
+.Navbar-links p {
+    margin-left:50px;
+    font-size: larger;
+    font-weight: 700;
+}
