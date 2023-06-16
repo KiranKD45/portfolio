@@ -9,9 +9,9 @@ function Home() {
         <h2>Hii, My Name is Kiran</h2>
         <div className='prompt'>
           <p>A Front-end Web Developer with lots of Energy</p>
-          <Email/>
-          <LinkedIn/>
-          <GitHub/>
+          <a href='mailto:kiranm81040@gmail.com'><Email/></a>
+          <a href='https://www.linkedin.com/in/kiran-madiwalar-0a38b9238/'><LinkedIn /></a> 
+          <a href='https://github.com/KiranKD45'><GitHub/></a>
         </div>
       </div>
       <div className='skills'>

@@ -6,6 +6,10 @@
     align-items: center;
     flex-direction: column;
   }
+  .projects h1{
+    margin-top: 20px;
+    font-weight: 700;
+  }
   .projects .projectTitle {
     text-align: center;
     color: #3e497a;

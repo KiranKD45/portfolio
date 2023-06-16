@@ -6,10 +6,11 @@ function Footer() {
   return (
     <div className='footer'>
    <div className='socialMedia'>
-<Instagram />
-<Facebook />
-<GitHub/>
-<LinkedIn />
+   <a href='https://www.linkedin.com/in/kiran-madiwalar-0a38b9238/'><LinkedIn /></a>
+ <a href='https://www.instagram.com/kiran_m_45/?__coig_restricted=1'><Instagram /></a> 
+ <a href='https://www.facebook.com/kiranm.sanjeev'><Facebook /></a>
+ <a href='https://github.com/KiranKD45'><GitHub/></a>
+ 
 
    </div>
    <p> &copy; 2023 KiranKD.com </p>
